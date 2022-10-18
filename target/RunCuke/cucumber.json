@@ -1,0 +1,320 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 12308199700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "I want to aldo",
+        "description": "",
+        "id": "home-test;i-want-to-aldo;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 458500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 460750800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I am on HomePage",
+            "match": {
+              "location": "NavigationPage.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3037030900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click on \"New Arrivals\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "New Arrivals",
+                  "offset": 12
+                }
+              ],
+              "location": "NavigationPage.iClickOn(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 45900,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I am on page",
+            "match": {
+              "location": "NavigationPage.iAmOnPage()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 9986376800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 12,
+        "name": "I want to aldo",
+        "description": "",
+        "id": "home-test;i-want-to-aldo;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 271900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 33900,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I am on HomePage",
+            "match": {
+              "location": "NavigationPage.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4011972900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click on \"Women\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Women",
+                  "offset": 12
+                }
+              ],
+              "location": "NavigationPage.iClickOn(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 25800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I am on page",
+            "match": {
+              "location": "NavigationPage.iAmOnPage()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 12934821000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 13,
+        "name": "I want to aldo",
+        "description": "",
+        "id": "home-test;i-want-to-aldo;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 42600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 41500,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I am on HomePage",
+            "match": {
+              "location": "NavigationPage.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 6838243600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click on \"Men\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Men",
+                  "offset": 12
+                }
+              ],
+              "location": "NavigationPage.iClickOn(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 101400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I am on page",
+            "match": {
+              "location": "NavigationPage.iAmOnPage()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 16052375500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 14,
+        "name": "I want to aldo",
+        "description": "",
+        "id": "home-test;i-want-to-aldo;;5",
+        "after": [
+          {
+            "result": {
+              "duration": 104800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 43400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I am on HomePage",
+            "match": {
+              "location": "NavigationPage.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 19279964600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click on \"Sale\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Sale",
+                  "offset": 12
+                }
+              ],
+              "location": "NavigationPage.iClickOn(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 17900,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I am on page",
+            "match": {
+              "location": "NavigationPage.iAmOnPage()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "home Test",
+    "description": "As user I want to login aldo website",
+    "id": "home-test",
+    "keyword": "Feature",
+    "uri": "src/test/java/resources/featurefile/navigation.feature"
+  }
+]
